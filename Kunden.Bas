@@ -1,3 +1,4 @@
 10 PRINT " HIER SIDN KUNDEN!"
 20 GOTO 300
 30 rem
+60 print
